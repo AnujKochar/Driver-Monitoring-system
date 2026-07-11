@@ -115,21 +115,6 @@ Audio Alert      Email Notification
 - Driver Monitoring Interface
 - Activity Logs
 - Alert History
-
----
-
-# 📸 Application Preview
-
-> Replace these placeholders with screenshots.
-
-| Login | Dashboard |
-|-------|-----------|
-| Add Screenshot | Add Screenshot |
-
-| Live Monitoring | Alert Detection |
-|-----------------|-----------------|
-| Add Screenshot | Add Screenshot |
-
 ---
 
 # 🚀 Future Enhancements
